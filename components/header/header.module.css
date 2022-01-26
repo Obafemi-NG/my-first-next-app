@@ -6,10 +6,10 @@
 }
 .header-title {
   margin: 0;
-  padding: 5px 0 5px 20px;
+  padding: 5px 0 5px 40px;
 }
 
 .header-link {
   display: flex;
-  padding-right: 20px;
+  padding-right: 40px;
 }

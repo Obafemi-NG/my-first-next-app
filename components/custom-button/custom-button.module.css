@@ -1,12 +1,23 @@
 .button {
-  background-color: white;
   border: none;
   border-radius: 5px;
   height: 40px;
   margin: 17px 10px;
   cursor: pointer;
   padding: 10px;
+  color: #1572a1;
+  background-color: white;
 }
+
+/* .inverted {
+  background-color: #1572a1;
+  color: #ffffff;
+}
+
+.normal {
+  color: #1572a1;
+  background-color: white;
+} */
 
 .button:hover {
   color: white;
